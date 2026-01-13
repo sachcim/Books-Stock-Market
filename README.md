@@ -96,3 +96,6 @@ Instead of Controllers containing complex logic, the application uses **ViewMode
 2.  Navigate to the **Marketplace** to browse books.
 3.  Use the **"Add Announcement"** feature to list your own books.
 4.  Interact with other users via the **Messages** tab.
+
+## Authors
+Project completed by **@sachcim** and **@kakd20061**.
